@@ -22,8 +22,7 @@
         "url": "https://github.com/Emeryao/typed-dingtalk.git"
     },
     "scripts": {
-        "start": "tsc && node ./dist/app.js",
-        "postinstall": "node scripts/postinstall.js"
+        "start": "tsc && node ./dist/app.js"
     },
     "version": "2.3.0-beta.3"
 }
